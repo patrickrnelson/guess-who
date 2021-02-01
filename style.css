@@ -1,0 +1,17 @@
+body {
+  background-color: dimgray;
+}
+
+h1 {
+  color: ivory;
+}
+
+#pictures {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.prof-pic {
+  margin-right: 10px;
+  margin-top: 10px;
+}
